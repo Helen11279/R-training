@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = log_threatened ~ log_filings, data = eviction)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-2.18249 -0.04718  0.02583  0.07551  0.24691 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 0.0471773  0.0004092   115.3   <2e-16 ***
+log_filings 0.9441626  0.0001318  7165.0   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1211 on 366815 degrees of freedom
+Multiple R-squared:  0.9929,	Adjusted R-squared:  0.9929 
+F-statistic: 5.134e+07 on 1 and 366815 DF,  p-value: < 2.2e-16
+

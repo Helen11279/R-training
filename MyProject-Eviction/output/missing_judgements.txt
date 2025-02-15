@@ -1,0 +1,46 @@
+state	missing_judgements
+Texas	2334
+Illinois	1769
+Wisconsin	1744
+Iowa	1609
+Florida	1592
+Kentucky	1274
+Alabama	1222
+Missouri	1220
+Arkansas	1066
+Ohio	1051
+Pennsylvania	1039
+Arizona	1005
+Washington	999
+Louisiana	941
+Kansas	927
+Oklahoma	913
+Nebraska	880
+Minnesota	761
+Montana	748
+North Carolina	748
+Utah	597
+Michigan	517
+New York	465
+Wyoming	405
+Virginia	386
+Oregon	384
+Massachusetts	379
+Colorado	366
+New Jersey	297
+New Mexico	264
+Indiana	252
+Connecticut	247
+Maine	224
+Tennessee	205
+Georgia	164
+California	139
+South Carolina	110
+Nevada	97
+Delaware	71
+Vermont	40
+District of Columbia	28
+Maryland	25
+Alaska	11
+Hawaii	10
+Rhode Island	8
