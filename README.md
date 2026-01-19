@@ -1,4 +1,5 @@
 # R-training
+# Purpose: This document presents independently developed analytical work by Yu-Jing (Laine) Chen, including R-based analyses and study replications, alongside publicly shareable components related to prior research and internship experiences.
 
 #Credit to jcoliver for the R tutorials, which I referenced for this self-directed study: 
 https://github.com/jcoliver/learn-r.
